@@ -41,6 +41,5 @@ Outside of industry, I've worked on projects involving **agentic AI security tes
 
 ## Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **Email:** your-email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/daniel-firoozabadi/
+- **Email:** dfiroozabadi@berkeley.edu
