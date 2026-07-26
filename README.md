@@ -58,5 +58,5 @@ Previous research involving stereo-depth estimation, autonomous systems, and mic
 
 ## Let's Connect
 
-- [LinkedIn]: https://www.linkedin.com/in/daniel-firoozabadi/
-- [Email]: dfiroozabadi@berkeley.edu
+- [LinkedIn](https://www.linkedin.com/in/daniel-firoozabadi/)
+- [Email](mailto:dfiroozabadi@berkeley.edu)
