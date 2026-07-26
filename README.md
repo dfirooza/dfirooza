@@ -8,7 +8,7 @@ Most recently, I worked as a **Software Engineering Intern at Capital One**, whe
 
 Outside of industry, I've worked on projects involving **agentic AI security testing, computer vision, robotics, and full-stack development**. I enjoy taking ambiguous technical problems and turning them into practical, reliable systems.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
